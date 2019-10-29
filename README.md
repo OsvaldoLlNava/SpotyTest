@@ -1,0 +1,2 @@
+# SpotyTest
+Proyecto Chio Calidad
